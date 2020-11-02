@@ -1,1 +1,2 @@
 we are learning bit bascis.
+Git is lightweight.
